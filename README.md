@@ -135,7 +135,6 @@ For a medical use case focused on catching all positive cases,
 Diabetes_EDA_Project/
 │
 ├── Diabetes_EDA_Project.ipynb   # Main notebook
-├── diabetes.csv                  # Dataset
 └── README.md                     # Project documentation
 ```
 
